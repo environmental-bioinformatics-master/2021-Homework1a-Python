@@ -1,0 +1,11 @@
+name: python_homework
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - numpy=1.16.5 
+  - pandas=0.24
+  - matplotlib
+  - nb_conda
+  - scipy
+  - biopython
