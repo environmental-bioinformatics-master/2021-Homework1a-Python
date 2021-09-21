@@ -11,11 +11,14 @@ This is a great exercise! It is one that I did while learning to code in `python
 **Use your peers. Use your brain. Ask the instructors. Embrace the struggle. It is the best way to learn.**
 
 ## Getting ready to run the assignment
-The first thing that you will need to do prior to attempting this assignment is create a conda environment where you will run your homework. I have created a environment yaml file that you can use to set up the environment with the appropriate libraries. Run: 
+The first thing that you will need to do prior to attempting this assignment is activate the conda environment we created in class `python_lab`. 
 
 ```
-conda env create -f homework.yaml
+conda activate python_lab
 ```
+
+You should now be in your environment and see your prompt change. 
+
 ## Starting jupyter
 You are now ready to get going. As a reminder you will want to: 
 
