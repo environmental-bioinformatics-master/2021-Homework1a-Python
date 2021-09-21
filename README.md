@@ -3,7 +3,7 @@ As with the last homework, clone this repo to the HPC. By following the homework
 
 For this homework, you will work on writing two functions that deal with counting and finding kmers. You will rely on your knowledge of strings, data collections (e.g. dictionaries, sets, lists), and indexing. I have provided [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) to help you think about structuring your answers. I have also provided test cases for you to use to test that your code works as expected. 
 
-For this homework, I want you to **comment your code very well.** For an example-- I have commented the code that we wrote in class. I expect a similar level of detail in the code you write.
+For this homework, I want you to **comment your code.** Add information such that you know what each line is doing. 
 
 ## A note on Google
 This is a great exercise! It is one that I did while learning to code in `python`. That being said... we are not the only ones who think this is a great exercise. So, many of the solutions to this exact problem are directly Google-able. In line with our collaboration policy, it is fine (and encouraged) to Google things like "nested for loop in Python" or "raise exception in Python". However, please don't cheat yourself out of the exercise by Googling: "Count Kmers in Python". Again, this was designed to help you learn and you won't learn much by copying answers from the internet.
