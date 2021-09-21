@@ -3,9 +3,8 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - numpy=1.16.5 
-  - pandas=0.24
-  - matplotlib
+  - numpy
+  - pandas
   - nb_conda
   - scipy
   - biopython
