@@ -1,5 +1,5 @@
 # Homework 1a : Python
-As with the last homework, clone this repo to the HPC. By following the homework link a new repo should have been created for you with the form `2019-MIT-Environmental-Bioinformatics/homework1-python-USERNAME`. This is your repository and it is how you will be submitting your homework to us. Follow the same download protocol as before. 
+As with the last homework, clone this repo to the HPC. By following the homework link a new repo should have been created for you with the form `2021-Environmental-Bioinformatics/homework1a-python-USERNAME`. This is your repository and it is how you will be submitting your homework to us. Follow the same download protocol as before. 
 
 For this homework, you will work on writing two functions that deal with counting and finding kmers. You will rely on your knowledge of strings, data collections (e.g. dictionaries, sets, lists), and indexing. I have provided [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) to help you think about structuring your answers. I have also provided test cases for you to use to test that your code works as expected. 
 
