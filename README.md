@@ -24,7 +24,7 @@ You are now ready to get going. As a reminder you will want to:
 
 1) Start up a `tmux` session. You can create a new named session (`tmux new -s name`) or attach an existing session (`tmux a -t name`). 
 
-2) Once in the session start up your conda environment: `conda activate python_homework`
+2) Once in the session start up your conda environment: `conda activate python_lab`
 
 3) Make sure you are in the directory that contains the python homework assignment (i.e. has this `README.md` file). Now you are ready to start up Jupyter Notebook. On poseidon run: `jupyter notebook --no-browser` and wait for it to start and report a port number. Then, on your local machine run: `ssh -N -f -L localhost:8888:localhost:8888 USERNAME@poseidon-[l1 or l2].whoi.edu`-- filling in Username, port number and l1 or l2 as fits your situation. 
 
